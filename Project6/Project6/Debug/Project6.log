@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\serhan\documents\visual studio 2015\projects\project6\project6\source.cpp(29): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Project6.vcxproj -> c:\users\serhan\documents\visual studio 2015\Projects\Project6\Debug\Project6.exe
+  Project6.vcxproj -> c:\users\serhan\documents\visual studio 2015\Projects\Project6\Debug\Project6.pdb (Partial PDB)
